@@ -10,3 +10,7 @@
 
 ### 教程
 - [极客教程](https://geek-docs.com/deep-learning)
+
+### TF中的核心函数介绍
+- [Dropout](https://www.jianshu.com/p/c9f66bc8f96c)
+- [BatchNormalization](https://www.jianshu.com/p/0312e04e4e83)
