@@ -16,6 +16,8 @@
 - [BatchNormalization](https://www.jianshu.com/p/0312e04e4e83)
 
 ### 总结文章
+#### Backbone
  - [深度学习中的经典基础网络结构（backbone）总结](https://blog.csdn.net/kuweicai/article/details/102789420)
+ - [神经网络模型(Backbone)](https://www.cnblogs.com/silence-cho/p/11620863.html)
  - [深度神经网络中常用的激活函数的优缺点分析](https://blog.csdn.net/kuweicai/article/details/93926393)
  - [动图详细讲解 LeNet-5 网络结构](https://blog.csdn.net/kuweicai/article/details/93359992)
