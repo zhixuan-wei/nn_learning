@@ -14,3 +14,6 @@
 ### TF中的核心函数介绍
 - [Dropout](https://www.jianshu.com/p/c9f66bc8f96c)
 - [BatchNormalization](https://www.jianshu.com/p/0312e04e4e83)
+
+### 总结文章
+ - [深度学习中的经典基础网络结构（backbone）总结](https://blog.csdn.net/kuweicai/article/details/102789420)
