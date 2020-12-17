@@ -21,3 +21,6 @@
  - [神经网络模型(Backbone)](https://www.cnblogs.com/silence-cho/p/11620863.html)
  - [深度神经网络中常用的激活函数的优缺点分析](https://blog.csdn.net/kuweicai/article/details/93926393)
  - [动图详细讲解 LeNet-5 网络结构](https://blog.csdn.net/kuweicai/article/details/93359992)
+
+### 牛逼课题组
+ - [Oxford Radar RobotCar Dataset](https://oxford-robotics-institute.github.io/radar-robotcar-dataset/)
