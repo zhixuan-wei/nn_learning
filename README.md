@@ -24,3 +24,6 @@
 
 ### 牛逼课题组
  - [Oxford Radar RobotCar Dataset](https://oxford-robotics-institute.github.io/radar-robotcar-dataset/)
+
+## lidar segmentation常见方法
+
