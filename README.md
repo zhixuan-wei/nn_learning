@@ -35,3 +35,5 @@
  - [国内环境下如何克隆 Apollo 仓库](https://github.com/ApolloAuto/apollo/blob/master/docs/howto/how_to_clone_apollo_repo_from_china_cn.md)
  - [国内环境 GitHub 拉取仓库速度慢的缓解方案](https://github.com/ApolloAuto/apollo/blob/master/docs/howto/how_to_solve_slow_pull_from_cn.md)
  - [如何准备 Bazel 的依赖缓存目录](https://github.com/ApolloAuto/apollo/blob/master/docs/howto/how_to_prepare_bazel_dist_dir_cn.md)
+ 
+ 当有其他包下载失败时，可以手动下载到apollo/.cache/distdir下
