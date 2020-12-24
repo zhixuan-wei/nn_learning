@@ -37,3 +37,7 @@
  - [如何准备 Bazel 的依赖缓存目录](https://github.com/ApolloAuto/apollo/blob/master/docs/howto/how_to_prepare_bazel_dist_dir_cn.md)
  
  当有其他包下载失败时，可以手动下载到apollo/.cache/distdir下
+ 
+## ROS2
+
+https://mp.ofweek.com/Upload/News/Img/member20047/201905/wx_article_20190526215406_1ZRS6D.jpg
