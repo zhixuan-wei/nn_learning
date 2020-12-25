@@ -47,3 +47,9 @@ https://mp.ofweek.com/Upload/News/Img/member20047/201905/wx_article_201905262154
 ### RTOS
 
  - [NuttX](https://zh.wikipedia.org/wiki/NuttX)
+ 
+### 性能测试
+
+ - [irobot-ros/ros2-performance](https://github.com/irobot-ros/ros2-performance)
+
+ - [ros2/buildfarm_perf_tests](https://github.com/ros2/buildfarm_perf_tests)
