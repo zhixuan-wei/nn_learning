@@ -27,6 +27,16 @@
 
 ## lidar segmentation常见方法
 
+## lidar flow
+
+### NN
+
+ - FlowNet3D [pdf](http://graphics.stanford.edu/courses/cs233-20-spring/ReferencedPapers/Liu_FlowNet3D_Learning_Scene_Flow_in_3D_Point_Clouds_CVPR_2019_paper.pdf) [code](https://github.com/xingyul/flownet3d) [介绍](https://www.sohu.com/a/320446782_715754)
+ 
+### non-NN
+
+ - [Arash K. Ushani UMICH & Ford](https://aushani.com/)
+
 ## Apollo
 
 ### Install
